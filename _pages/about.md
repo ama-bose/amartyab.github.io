@@ -27,7 +27,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello and welcome! I am a PhD candidate at the Wilf Department of Politics at New York University.
+
+I hold an MPhil in Economics from the University of New South Wales and a BA in Economics and Political Science (Hons) from the University of Southern California.
+Before entering the PhD program, I worked as a policy analyst at the Center for Population Ageing Research at UNSW. 
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
